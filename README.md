@@ -1,10 +1,10 @@
 # Bismillah
 
-**Data Analytics bo‘yicha to‘liq 3 oylik  haftalik rejasi + amaliy mashqlar**ni yozib boraman. Bu **0 dan  Data Analyst bo'lishishga** yordam beradi.
+**Data Analytics bo‘yicha to‘liq 3 oylik Roadmap haftalik rejasi + amaliy mashqlar**ni yozib boraman. Bu **0 dan  Data Analyst bo'lishishga** yordam beradi.
 
 ---
 
-# 🎓 **3 OYLIK DATA ANALYTICS (FULL SYLLABUS)**
+# 🎓 **3 OYLIK DATA ANALYTICS (FULL Roadmap)**
 
 *(12 hafta → har hafta to‘liq ketma-ket darslar va mashqlar bilan)*
 
